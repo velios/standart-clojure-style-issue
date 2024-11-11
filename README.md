@@ -1,0 +1,1 @@
+Use `clojurefmt fix initial/` and it will be formatted like in result folder
